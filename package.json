@@ -1,0 +1,22 @@
+{
+  "name": "fast-cache-syc",
+  "version": "0.0.1",
+  "description": "syc",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "https://github.com/qq1179459323/fast-cache-syc.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq1179459323/fast-cache-syc.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "https://github.com/qq1179459323/fast-cache-syc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qq1179459323/fast-cache-syc/issues"
+  },
+  "homepage": "https://github.com/qq1179459323/fast-cache-syc#readme"
+}
